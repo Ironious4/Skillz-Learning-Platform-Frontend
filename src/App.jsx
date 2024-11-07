@@ -12,7 +12,7 @@ import Profile from './pages/InstructorProfile';
 import InstructorProfile from './components/InstructorProfile'; 
 import TwoFactorAuth from './components/TwoFactorAuth'
 import UsersList from './pages/users';
-import CourseContent from './pages/coursecontent'
+import CourseContent from './pages/coursecontent';
 
 const App = () => {
   return (
