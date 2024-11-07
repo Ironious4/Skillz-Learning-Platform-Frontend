@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import LearnersDashboard from './LearnersDashboard';
-import InstructorDashboard from './InstructorDashboard';
+import InstructorDashboard from './InstructorDashbord';
 import Sidebar from '../components/Sidebar';
 import './Dashboard.css'; // Import custom CSS
 import BASE_URL from './UTILS';

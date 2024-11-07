@@ -1,6 +1,6 @@
 // src/components/Profile.js
 import React, { useState, useEffect } from "react";
-import "./profile.css";
+// import "./profile.css";
 import { Col, Container, Row } from "react-bootstrap";
 import BASE_URL from "./UTILS";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
